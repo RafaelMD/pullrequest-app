@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hello.EurekaServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.486 sec - in hello.EurekaServiceApplicationTests
