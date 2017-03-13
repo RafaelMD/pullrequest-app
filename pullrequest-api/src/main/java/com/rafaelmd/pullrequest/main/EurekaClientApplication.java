@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 @EnableDiscoveryClient
 @SpringBootApplication
-@ComponentScan({"com.rafaelmd.pullrequest.controllers"})
+@ComponentScan({"com.rafaelmd.pullrequest"})
 public class EurekaClientApplication {
 
     public static void main(String[] args) {

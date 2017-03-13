@@ -1,4 +1,6 @@
 rootProject.name = 'pullrequest-app'
 
+include 'pullrequest-core'
+include 'pullrequest-data-repository'
 include 'pullrequest-api'
 include 'pullrequest-eureka'
